@@ -1,6 +1,6 @@
 ﻿# taskSolution
-# task1
+## task1
 task of placing elements on a page
-# task2
+## task2
 A simple React form with error handling 
 (it could have been made easier)
